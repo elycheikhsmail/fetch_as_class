@@ -4,7 +4,7 @@ example
 ```
 //sava as my.test.ts
 // deno run  --location http://localhost:8080 my.test.ts
-import {  FetchHelper  } from "https://deno.land/x/fetchAsClass@v1.0.3/mode.ts";
+import {  FetchHelper  } from "https://deno.land/x/fetchAsClass@v1.0.4/mod.ts";
 const fetchHepler = new FetchHelper();
 import * as t from "https://deno.land/std@0.102.0/testing/asserts.ts";
 
