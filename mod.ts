@@ -1,0 +1,1 @@
+export { FetchHelper } from "./fetch-as-class.ts";
