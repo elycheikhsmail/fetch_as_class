@@ -1,4 +1,4 @@
-# fetchAsClass
+# fetch_as_class
 class for fetch data based on fetch api
 example 
 ```
