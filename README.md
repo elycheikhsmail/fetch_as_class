@@ -3,8 +3,8 @@ class for fetch data based on fetch api
 example 
 ```
 //sava as my.test.ts
-// deno run  --location https://localhost:8080 my.test.ts
-import {  FetchHelper  } from "https://deno.land/x/fetchAsClass@{VERSION}/mode.ts";
+// deno run  --location http://localhost:8080 my.test.ts
+import {  FetchHelper  } from "https://deno.land/x/fetchAsClass@1.0.2/mode.ts";
 const fetchHepler = new FetchHelper();
 import * as t from "https://deno.land/std@0.102.0/testing/asserts.ts";
 
